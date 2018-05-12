@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/698
     wikipedia: http://en.wikipedia.org/wiki/Henry_Smith_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43819#Every-day-Science--Volume-VII.-The-Conquest-of-Time-and-Space
 gutenberg_issued: '2013-09-27'
 gutenberg_type: Text
 identifiers:
