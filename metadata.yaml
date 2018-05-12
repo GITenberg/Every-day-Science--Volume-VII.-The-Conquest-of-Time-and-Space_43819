@@ -1,0 +1,32 @@
+_repo: Every-day-Science--Volume-VII.-The-Conquest-of-Time-and-Space_43819
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43819-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Williams, Edward Huntington
+    birthdate: 1868
+    deathdate: 1944
+    gutenberg_agent_id: '699'
+    url: http://www.gutenberg.org/2009/agents/699
+  - agent_name: Williams, Henry Smith
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '698'
+    url: http://www.gutenberg.org/2009/agents/698
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Smith_Williams
+description: ''
+gutenberg_issued: '2013-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transportation'
+- !lcc 'T'
+title: 'Every-day Science: Volume 7. The Conquest of Time and Space'
+url: http://www.gutenberg.org/ebooks/43819
